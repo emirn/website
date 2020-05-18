@@ -5,7 +5,7 @@ Copyright 2017 Eugene Mironichev [More Info](/book)
 
 - [Goodbye, Office!](#goodbye-office)
 - [Goodbye, Office! How to Make the Most out of Hiring and Working Remotely. Run your Business from Anywhere in the World!](#goodbye-office-how-to-make-the-most-out-of-hiring-and-working-remotely-run-your-business-from-anywhere-in-the-world)
-  - [About the author**](#about-the-author)
+  - [About the author](#about-the-author)
   - [Introduction](#introduction)
     - [My personal path to remote work](#my-personal-path-to-remote-work)
     - [More global. Cheaper. Faster.](#more-global-cheaper-faster)
@@ -66,7 +66,7 @@ by Eugene Mironichev
 
 This book is for both novice and veteran entrepreneurs interested in building a remote business and running it from anywhere in the world. You will learn how entrepreneurs operate their business remotely, how to build and manage a remote team, how to work with partners remotely, how to build your customer base and generate sales remotely, and more. The author analyzed more than 200 articles, studies, and books, and interviewed more than 20 entrepreneurs as well as representatives of major and niche freelance online marketplaces.
 
-## About the author**
+## About the author
 
 Eugene Mironichev has been operating his business remotely for more than 15 years. His journey took him from his start as a software engineer to his current status as an established serial entrepreneur. He works with remote teams from almost every continent and he now serves as a consultant for international startups entering the market by facilitating their global sales and marketing operations.
 
