@@ -3,121 +3,74 @@
 Copyright 2017 Eugene Mironichev [More Info](/book)
 
 
+- [Goodbye, Office!](#goodbye-office)
+- [Goodbye, Office! How to Make the Most out of Hiring and Working Remotely. Run your Business from Anywhere in the World!](#goodbye-office-how-to-make-the-most-out-of-hiring-and-working-remotely-run-your-business-from-anywhere-in-the-world)
+  - [About the author**](#about-the-author)
+  - [Introduction](#introduction)
+    - [My personal path to remote work](#my-personal-path-to-remote-work)
+    - [More global. Cheaper. Faster.](#more-global-cheaper-faster)
+    - [Why do entrepreneurs work remotely?](#why-do-entrepreneurs-work-remotely)
+    - [The principles and methods of planning](#the-principles-and-methods-of-planning)
+      - [Simplified task system by weekday](#simplified-task-system-by-weekday)
+      - [Work schedules of some well-known people:](#work-schedules-of-some-well-known-people)
+    - [Time Management Traps for remote workers](#time-management-traps-for-remote-workers)
+      - [Actual and perceived time](#actual-and-perceived-time)
+    - [What you should tell your friends and family about working remotely](#what-you-should-tell-your-friends-and-family-about-working-remotely)
+      - [How to explain this to your spouse or significant other](#how-to-explain-this-to-your-spouse-or-significant-other)
+      - [How to explain this to any children](#how-to-explain-this-to-any-children)
+      - [How to explain your situation to your parents](#how-to-explain-your-situation-to-your-parents)
+      - [How to explain this to your friends: Do you really have to?](#how-to-explain-this-to-your-friends-do-you-really-have-to)
+      - [How to explain things to yourself](#how-to-explain-things-to-yourself)
+    - [Applications and tools: who to trust?](#applications-and-tools-who-to-trust)
+    - [Coworking spaces versus offices](#coworking-spaces-versus-offices)
+    - [The upside of remote work](#the-upside-of-remote-work)
+    - [The downside of remote work](#the-downside-of-remote-work)
+    - [More about freelance marketplaces. What other ways can entrepreneurs use them?](#more-about-freelance-marketplaces-what-other-ways-can-entrepreneurs-use-them)
+    - [Features of freelance marketplaces](#features-of-freelance-marketplaces)
+    - [Who shouldn’t be working remotely](#who-shouldnt-be-working-remotely)
+    - [How to Hire and Test Remote Employees](#how-to-hire-and-test-remote-employees)
+    - [Overseeing projects involving large numbers of remote workers](#overseeing-projects-involving-large-numbers-of-remote-workers)
+    - [What to look for when working with remote specialists](#what-to-look-for-when-working-with-remote-specialists)
+    - [Advice on avoiding the most common mistakes made by new entrepreneurs seeking new employees](#advice-on-avoiding-the-most-common-mistakes-made-by-new-entrepreneurs-seeking-new-employees)
+    - [The Ideal Remote Employee](#the-ideal-remote-employee)
+    - [Bringing new workers on board](#bringing-new-workers-on-board)
+    - [How to monitor remote employees](#how-to-monitor-remote-employees)
+    - [The culture of remote work](#the-culture-of-remote-work)
+    - [“Picturesque” stories on the web](#picturesque-stories-on-the-web)
+    - [The Truth behind “Magical” Search Engine Optimization](#the-truth-behind-magical-search-engine-optimization)
+      - [Video conferences and video calls](#video-conferences-and-video-calls)
+      - [Automated routine operations](#automated-routine-operations)
+      - [Handling a large volume of incoming messages and questions](#handling-a-large-volume-of-incoming-messages-and-questions)
+    - [Online chats as the online platform for virtual teams](#online-chats-as-the-online-platform-for-virtual-teams)
+      - [The key advantages of chat rooms](#the-key-advantages-of-chat-rooms)
+      - [Where online chats fall short](#where-online-chats-fall-short)
+    - [The Hollywood Model for startups](#the-hollywood-model-for-startups)
+      - [Advantages of the “Hollywood Model”](#advantages-of-the-hollywood-model)
+      - [Disadvantages of the “Hollywood Model”](#disadvantages-of-the-hollywood-model)
+    - [Partner – or part of the team?](#partner--or-part-of-the-team)
+      - [The advantages of remote partners](#the-advantages-of-remote-partners)
+      - [The disadvantages of remote partners](#the-disadvantages-of-remote-partners)
+    - [Partners who facilitate sales](#partners-who-facilitate-sales)
+    - [Virtual Mastermind Groups](#virtual-mastermind-groups)
+    - [How to sell digital products online](#how-to-sell-digital-products-online)
+      - [Here are examples of real digital products that a small team, or even one person, can create and sell independently:](#here-are-examples-of-real-digital-products-that-a-small-team-or-even-one-person-can-create-and-sell-independently)
+      - [Few major online marketplaces for selling digital goods:](#few-major-online-marketplaces-for-selling-digital-goods)
+    - [How to find remote clients through a freelance marketplace](#how-to-find-remote-clients-through-a-freelance-marketplace)
+    - [How to correspond with remote clients](#how-to-correspond-with-remote-clients)
+    - [The Pitfalls of Working with Remote Clients](#the-pitfalls-of-working-with-remote-clients)
+
+
 # Goodbye, Office! How to Make the Most out of Hiring and Working Remotely. Run your Business from Anywhere in the World!
 
 by Eugene Mironichev
 
 This book is for both novice and veteran entrepreneurs interested in building a remote business and running it from anywhere in the world. You will learn how entrepreneurs operate their business remotely, how to build and manage a remote team, how to work with partners remotely, how to build your customer base and generate sales remotely, and more. The author analyzed more than 200 articles, studies, and books, and interviewed more than 20 entrepreneurs as well as representatives of major and niche freelance online marketplaces.
 
-**About the author**
+## About the author**
 
 Eugene Mironichev has been operating his business remotely for more than 15 years. His journey took him from his start as a software engineer to his current status as an established serial entrepreneur. He works with remote teams from almost every continent and he now serves as a consultant for international startups entering the market by facilitating their global sales and marketing operations.
 
-_**Introduction**_
-
-_Preface_
-
-_My personal path to remote work_
-
-_More global. Cheaper. Faster._
-
-_**Entrepreneurs**_
-
-_Why do entrepreneurs work remotely?_
-
-_How to plan?_
-
-_The principles and methods of planning_
-
-_Time Management Traps for remote workers_
-
-_What you should tell your friends and family about working remotely_
-
-_My Work Rules_
-
-_Applications and tools: who to trust?_
-
-_Portable Electronics_
-
-_The Home Office_
-
-_Coworking spaces versus offices_
-
-_**The Remote Team**_
-
-_Hire globally_
-
-_The upside of remote work_
-
-_The downside of remote work_
-
-_Where to look_
-
-_More about freelance marketplaces. What other ways can entrepreneurs use them?_
-
-_Who shouldn’t be working remotely_
-
-_How to Hire and Test Remote Employees_
-
-_Overseeing projects involving large numbers of remote workers_
-
-_What to look for when working with remote specialists_
-
-_Hiring remote managers_
-
-_Advice on avoiding the most common mistakes made by new entrepreneurs seeking new employees_
-
-_The Ideal Remote Employee_
-
-_Bringing new workers on board_
-
-_How to monitor remote employees_
-
-_The culture of remote work_
-
-_Internal Handbook_
-
-_No trolls allowed_
-
-_“Picturesque” stories on the web_
-
-_The Truth behind “Magical” Search Engine Optimization_
-
-_Virtual Office Tools_
-
-_Online chats as the online platform for virtual teams_
-
-_The Hollywood Model for startups_
-
-_**Remote Partners**_
-
-_Partner – or part of the team?_
-
-_Partners who facilitate sales_
-
-_Virtual Mastermind Groups_
-
-_**Remote Clients**_
-
-_How to sell digital products online_
-
-_How to find remote clients through a freelance marketplace_
-
-_The Ideal Remote Client_
-
-_How to correspond with remote clients_
-
-_The Pitfalls of Working with Remote Clients_
-
-_Naming your website_
-
-_**Parting thoughts**_
-
-_Copyright_
-
-_Legal Disclaimer_
-
-_Thanks to_
+## Introduction
 
 _This certainly wasn't the first time Xenia found herself seeking out remote workers for her company. And today, Saturday, she'd scheduled a follow-up video interview for 10 a.m. Today’s interview was with a young woman who, according to her resume, had been “freelancing” for three years. Three years’ experience was excellent for a remote worker! As was often the case with early-morning interviews, Xenia expected to see a sleepy girl in pajamas. But once the camera started up, what the recruiter saw on the screen made her smile despite herself. The woman sitting before her was attired in a suit, with flawlessly styled hair and impeccable makeup. On the couch behind her, staring directly into the camera, sat three cats._
 
@@ -251,9 +204,7 @@ In addition to scheduling tasks for a day, many entrepreneurs use a schedule whe
 
 • **Friday** – Feedback: Review and analyze communications from customers.
 
-### 
-
-Simplified task system by weekday
+#### Simplified task system by weekday
 
 There is another simplified system for planning when you’re under the weather, or traveling. I read about this approach some years ago, but, unfortunately, I don’t remember the source. This approach is useful when you are traveling or if you have health issues that sideline you from time to time.
 
@@ -265,9 +216,7 @@ There is another simplified system for planning when you’re under the weather,
 
 • **Friday** – Contemplation: Analysis of how it went, and thinking about what tasks to carry out next week.
 
-### 
-
-Work schedules of some well-known people:
+#### Work schedules of some well-known people:
 
 **Bill Gates (founder of Microsoft, the richest man on the planet in 2016)**
 
@@ -390,37 +339,27 @@ Many people still have stereotypes about various professions: the store owner st
 
 In fact, many of the above occupations now look the same: The store owner, the writer, the journalist, the broker and that manager are all sitting at their laptops.
 
-### 
-
-How to explain this to your spouse or significant other
+#### How to explain this to your spouse or significant other
 
 If your significant other works in an office and has never worked remotely, it’s important to explain that just because you work at home this doesn’t’ mean that you’re available for chores around the house. Ask him or her to pretend that you’ve left for work and aren’t even there. Unfortunately, these invisible boundaries are sometimes difficult to observe in practice. Especially if your partner is busy with the kids or also works at home!
 
 In that case, it doesn't hurt to explain that your income (and sometimes the family’s income) depends, in part, on how easy it is for you to get work done.
 
-### 
-
-How to explain this to any children
+#### How to explain this to any children
 
 When your children grow up, in all likelihood they’ll work remotely themselves. Therefore, it is better to explain what you do for a living. And you should also explain that the work itself doesn't depend on where you’re located, but on your performance and the actual results of your work. Children might simply be curious, so be sure to tell them what's going on in your work, and what it's all about. This will be of interest to them and they’ll understand that this isn’t just you sitting at a computer, but actual work happening here.
 
-### 
-
-How to explain your situation to your parents
+#### How to explain your situation to your parents
 
 You probably don’t need to explain much to the older generation. It might just be a hassle for them and for you. Often, older people judge a job by superficial trappings, and this can be hard to change. Maybe for them a good job is when you set off for work at a large building with a lot of people wearing a suit and clutching a briefcase, rather than sitting in your underwear on the edge of the bed balancing your laptop on your lap. Of course, technology has greatly changed business, and now a team of 10 programmers may earn more than an entire plant. Remote work and freelancing for many is still connected primarily with risks and unpredictability: “_What_’_s it like working at a company that doesn't have an office? In our day that just didn't happen!_” So you’re better off making up some kind of comprehensible occupation that will satisfy everyone and not generate apprehensions over your future.
 
 Of course, there are exceptions to every rule, and you yourself might be a remote worker of an advanced age. In that case, congratulations on escaping the office!
 
-### 
-
-How to explain this to your friends: Do you really have to?
+#### How to explain this to your friends: Do you really have to?
 
 A true friend doesn't care how you earn a living and where you work. And those who work at a brick-and-mortar office and envy your remote profession aren't themselves capable of working remotely. Some people really thrive at the office – they like certainty and stability, and even spending an hour on the road, while for others, predictability seems like slavery, and uncertainty spurs self-development. That's fine – the important thing is not to be critical and to maintain the friendship.
 
-### 
-
-How to explain things to yourself
+#### How to explain things to yourself
 
 The superficialities and rituals are important to a lot of people. To some people, all they need is a laptop and a table, while others need at least a secretary and a personal driver to feel good about themselves! When working remotely, especially if you’re also traveling, you begin to value minimalism: in a modern civilized world, anything else you need can be rented. But superficialities and rituals are important! Perhaps changing into work clothes, or at least wearing your special 'work slippers' can help put you in a productive mood. For many people, using a dedicated work computer helps them get into a work groove, although in practice this isn't always feasible.
 
@@ -723,9 +662,7 @@ There are some [300](http://blog.theresearchplatform.com/%3Fp%3D2969) different 
 
 • **Various paid options**. For example, you can purchase the option of hiding the size of the freelancers’ respective bids, so that freelancers don’t know how much others are requesting to work on your project. Also, marketplaces provide other services for a fee: help in finding and selecting a freelancer, the posting of projects with confidential data in which the freelancers need to sign an NDA (non-disclosure agreement) before viewing the job posting.
 
-### 
-
-Features of freelance marketplaces
+### Features of freelance marketplaces
 
 • **For its services, the marketplace takes a cut from each transaction.** The commission for the transaction can reach 10-20%.
 
@@ -1285,9 +1222,7 @@ I myself use or have previously used all of the services listed below, and can r
 
 • [Google Hangouts](https://www.messenger.com/) – free apps for online chats. The focus is more on communications between individuals, but it can also be used for group chats.
 
-### 
-
-Video conferences and video calls
+#### Video conferences and video calls
 
 • [Zoom.us](https://zoom.us/) – high-quality video calls, video and audio recording. For an additional fee, you can host webinars with hundreds of participants.
 
@@ -1297,9 +1232,7 @@ Video conferences and video calls
 
 • [GoToMeeting](https://www.gotomeeting.com/) – calls involving up to 100 people at a time; the moderator controls participant access; supports both video and audio calls.
 
-### 
-
-Automated routine operations
+#### Automated routine operations
 
 • [Zapier.com](https://zapier.com/) – links various business services in the cloud. For example, you can automate the copying of documents from one service to another.
 
@@ -1313,9 +1246,7 @@ Automated routine operations
 
 To host a Wordpress site, use the services provided by [Wordpress.com](https://godaddy.com/).
 
-### 
-
-Handling a large volume of incoming messages and questions
+#### Handling a large volume of incoming messages and questions
 
 • [Google Gmail](https://www.google.com/gmail/) – the easiest way to create a mailbox and share a box with multiple users. It’s also free. For a small monthly fee, you can set up a mailbox with a personalized address.
 
@@ -1424,9 +1355,7 @@ _One of our clients basically didn’t want to use chat to communicate with the 
 
 Chat channels not only help in creating working groups on the job, but also groups with outside interests. The latter increases the overall connections between employees, fostering better communications, and this helps the overall morale of the distributed team.
 
-### 
-
-The key advantages of chat rooms
+#### The key advantages of chat rooms
 
 • **The format of the online chat itself makes communications more informal**, unlike e-mail
 
@@ -1444,9 +1373,7 @@ The key advantages of chat rooms
 
 • **The same online chat applications** are often used for both work-related and non-work-related communications.
 
-### 
-
-Where online chats fall short
+#### Where online chats fall short
 
 • **The chat format means project members must be synchronized**, both in terms of their work and their schedules. To help with this, many teams actually use a “_delayed mode,_”,where everyone responds at their convenience. Think about whether you really need all of the communications to take place in real time where everyone responds in seconds, or if it's okay if responses come in a few hours.
 
@@ -1491,9 +1418,7 @@ And there are smaller companies that provide experts for their clients based on 
 
 If you are considering running a new project based on the Hollywood model, then you should be aware of the following advantages and disadvantages:
 
-### 
-
-Advantages of the “Hollywood Model”
+#### Advantages of the “Hollywood Model”
 
 *   **The resulting quality of the first iteration of your business is much higher.**
 *   **Experts can foresee and avoid critical risks** based on their experience, resulting in a lower failure rate.
@@ -1501,9 +1426,7 @@ Advantages of the “Hollywood Model”
 *   **Your existing team will face fewer conflicts and less stress** since you’re not taking them away from their regular work.
 *   **Your team will be empowered to take contro**l over the project once the first milestone has been achieved.
 
-### 
-
-Disadvantages of the “Hollywood Model”
+#### Disadvantages of the “Hollywood Model”
 
 *   **Be prepared to pay up to 2–5 more** for experienced professionals compared to your in-house team. At the same time, you should consider the resources, time and money you’d spend to train your team to reach the same level of experience.
 *   **Be prepared to invest in whatever new tools are required by the outside professionals.** These tools may differ from those you currently employ. This is why you’re better off treating the outside team as contractors, and, in some cases, even as a separate business entity.
@@ -1561,17 +1484,13 @@ Remote partners can provide:
 
 Remote partners even help companies rely less on the office by transferring part of the functions formerly carried out there to partners. Imagine an office company that transfers accounting to one partner, marketing to another partner, moves infrastructure to the cloud, and only employees who work on the digital product are left, and they probably don’t even need an office. Another advantage of transferring duties to partners is that some tasks can be performed faster and better by partners. And these are partners who don't have to be local at all – they can be remote!
 
-### 
-
-The advantages of remote partners
+#### The advantages of remote partners
 
 • **You can find a remote partner at a good value for the money**, and also with the right experience because the search isn’t limited to local companies.
 
 • **You can put together a team of highly specialized professionals** who can be hired only for the duration of the project. For example, if you need a dozen contracts with a client from China that requires careful negotiations, you should find a law firm with exactly this experience.
 
-### 
-
-The disadvantages of remote partners
+#### The disadvantages of remote partners
 
 • **Often, correspondence can be less effective when discussing complex tasks**, but Skype and similar programs for audio and video calls can solve this problem for free. After a conversation, it is always useful for each party to the call to briefly record what was discussed and send a short summary of the conversation out by e-mail.
 
@@ -1629,9 +1548,7 @@ When you sell services to clients (for example, website development, design, mob
 
 Unlike services, so-called “digital products” can be created by a small team and sold an unlimited number of times to customers around the world. It is important to note that a digital product, as a rule, is not sold and is not transferred to ownership, rather, it is licensed. Simply put, the product is as if “leased out.” With licensing, each buyer receives a copy of the product and uses it in compliance with a license agreement. Thanks to the Internet and the low cost of data transmission, digital products can be distributed virtually for free, i.e., the product costs nothing to actually reproduce. Thus, you can sell (or rather license) your digital product to an unlimited number of customers an unlimited number of times.
 
-### 
-
-Here are examples of real digital products that a small team, or even one person, can create and sell independently:
+#### Here are examples of real digital products that a small team, or even one person, can create and sell independently:
 
 • **Photos and videos.** For example, photos of animals to be sold through a photo bank website.
 
@@ -1673,9 +1590,7 @@ Here are examples of real digital products that a small team, or even one person
 
 There are also many specialized online marketplaces for selling digital goods.
 
-### 
-
-Few major online marketplaces for selling digital goods:
+#### Few major online marketplaces for selling digital goods:
 
 – [Amazon Kindle KDP](http://kdp.amazon.com/) – sales of digital books for Amazon Kindle.
 
