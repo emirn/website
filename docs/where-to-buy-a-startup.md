@@ -6,7 +6,7 @@ If you want to run a startup then you can create a brand new startup or you can 
 
 There are few successful stories on the Internet about buying a project and successfully growing it:
 
-- Rob Walling's [experience](https://robwalling.com/2015/12/02/what-i-learned-buying-growing-and-selling-hittail/ with buying and growing _HitTail_ online service
+- Rob Walling's [experience](https://robwalling.com/2015/12/02/what-i-learned-buying-growing-and-selling-hittail/) with buying and growing _HitTail_ online service
 - Nathan Latka's [story](https://medium.com/@nathanlatka/how-i-got-95-net-profit-margins-on-a-chrome-extension-20fdcfc1f754) about buying and monetizing _SndLatr_ Chrome plugin. 
 - Also, there are so called "_search funds_" that are similar to venture funds but instead of investing into startups, these funds are focused on buying companies for the purpose of growing and expanding them under new management.
 
