@@ -1,4 +1,4 @@
-Welcome Mironichev.com! My name is Eugene Mironichev. I'm a programmer, entrepreneur, musician and lifelong student. 
+Welcome to Mironichev.com! 
 
 ### Latest Articles
 
