@@ -12,5 +12,6 @@
 - [Twitter](https://twitter.com/emironic)
 - [GoodReads](https://www.goodreads.com/user/show/34942670-eugene)
 - [LinkedIn](https://linkedin.com/in/mironic)
+- [Medium](https://medium.com/@emironic/)
 - [Github](https://github.com/emirn)
 - [YouTube](https://www.youtube.com/user/MironichevMusic)
