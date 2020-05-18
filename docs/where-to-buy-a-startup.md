@@ -35,3 +35,5 @@ In addition to marketplaces, there are few places where startup founders and ent
 *   [Show HN](https://news.ycombinator.com/show) - the online community where software developers and tech entrepreneurs are sharing their new startups, apps and websites.
 *   [BetaPage](https://betapage.co) - website where startups are posting their information and searching for feedback for their "beta" version.
 *   [Product Huunt](https://producthunt.ccom) - the place where startups are pitching their projects. There are dozens and hundreds of submissions every day and you may want to explore old postings.
+
+_updated on May 18, 2020_
