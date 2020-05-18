@@ -16,6 +16,7 @@
 - [Chinese Translation] _coming soon_
 
 ## Read online
-[Goodbye, Office! book](/goodbye-office-book.md)
+
+- [Goodbye, Office! book](/goodbye-office-book)
 
 
