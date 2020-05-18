@@ -1,9 +1,5 @@
-<div id="title">
-          <h1>Mironichev.com</h1>
-</div>
-
-Welcome!  My name is Eugene Mironichev. I'm a programmer, entrepreneur, musician and lifelong student. 
+Welcome Mironichev.com! My name is Eugene Mironichev. I'm a programmer, entrepreneur, musician and lifelong student. 
 
 ### Latest Articles
 
-[Where to buy (and sell) a startup](where-to-buy-a-startup)
+- [Where to buy (and sell) a startup](where-to-buy-a-startup) (May 18, 2020)
