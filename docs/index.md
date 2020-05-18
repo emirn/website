@@ -1,3 +1,7 @@
+<div id="title">
+          <h1>Mironichev.com</h1>
+</div>
+
 Welcome!  My name is Eugene Mironichev. I'm a programmer, entrepreneur, musician and lifelong student. 
 
 ### Latest Articles
