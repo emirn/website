@@ -12,7 +12,7 @@ There are few successful stories on the Internet about buying a project and succ
 
 ## Marketplaces
 
-*   [BizBuySell](https://www.bizbuysell.com) - a large online marketplaces with both online and offline businesses for sale. Prices start at $1K but in most cases you see prices from $10k and higher. You can also hire a broker to help you.
+*   [BizBuySell](https://www.bizbuysell.com/online-and-technology-businesses-for-sale/) - a large online marketplaces with both online and offline businesses for sale. Prices start at $1K but in most cases you see prices from $10k and higher. You can also hire a broker to help you.
 *   [Flippa](https://www.flippa.com) - this popular marketplace started from selling domains, mobile apps and websites but lately expanded to selling marketplaces and Amazon FBA shops. They claim to be #1 platform to buy and sell online businesses. Note that there are lot of resellers that are buying projects and then reselling them.
 *   [FE International](https://feinternational.com) - focused on selling e-commerce websites and SaaS services. Prices ranges from $60K to $20M per listing. This online brokerage service also provides due diligence and other services.
 *   [Shopify Exchange](https://exchangemarketplace.com) - official marketplace by Shopify for buying and selling e-commerce stores and businesses. Prices range from $1,500 to few millions.
@@ -24,7 +24,6 @@ There are few successful stories on the Internet about buying a project and succ
 *   [TrustIu](https://www.trustiu.com/en/search/) - online marketplace offering YouTube channels. Prices start at 700 EURO.
 *   [FameSwap](https://fameswap.com) - online marketplace offering thousands of Youtube channels, Instagram accounts and TikTok accounts. Prices start from $500.
 *   [Accs Market](https://fameswap.com) - online marketplace selling Youtube, Instagram, Twitter, Facebook accounts and Telegram channels. Prices range from $50 to $30k.
-
 *   [Code Canyon](https://codecanyon.net/search/app%20source%20code) - online marketplace selling video, audio and reccently also templates for source code for mobile apps. Prices start at $35 but these apps are very simple and may serve as the base or as an example only for your new project.
 
 # Where startups are looking for feedback.
