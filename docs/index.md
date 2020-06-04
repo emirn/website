@@ -1,4 +1,4 @@
-Welcome to Mironichev.com! 
+Welcome to the personal website of Eugene Mironichev!
 
 ### Latest Articles
 
