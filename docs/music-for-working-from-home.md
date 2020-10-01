@@ -11,7 +11,7 @@ When working from home it can be hard to get into the right "flow". Music can he
 4. [endless, lofi hip hop radio - beats to relax/study to - YouTube live radio](https://www.youtube.com/watch?v=5qap5aO4i9A)
 5. [1h 28m - Voltanov @ RTS.FM Riga 10.07.16 on SoundCloud](https://soundcloud.com/rtsfm/voltanov-rtsfm-riga-100716)
 6. [1h NYE Afterparty on SoundCloud](https://soundcloud.com/daylomar/daylomar-nye-afterparty)
-7. [1h27m Lola Palmer | Friendly Vibes Showcase X RTS.FM • 29.01.15 on SoundCloud](https://soundcloud.com/rtsfm/lola-palmer-friendly-vibes-showcase-x-rtsfm-290115)
+7. [1h27m Lola Palmer Friendly Vibes Showcase X RTS.FM • 29.01.15 on SoundCloud](https://soundcloud.com/rtsfm/lola-palmer-friendly-vibes-showcase-x-rtsfm-290115)
 8. [1h9m Julian Perez RTS.FM Budapest 16.01.2016](https://soundcloud.com/rtsfm/julian-perez-rtsfm-budapest-16012016)
 9. [1h an Krüger RTS.FM Berlin 23.04.15 on Soundcloud](https://soundcloud.com/rtsfm/jan-kruger-rtsfm-berlin-230415)
 10. [1h Mihai Popoviciu RTS.FM Chile on SoundCloud](https://soundcloud.com/rtsfm/mihai-popoviciu-rtsfm-chile)
