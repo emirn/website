@@ -2,6 +2,8 @@
 
 When working from home it can be hard to get into the right "flow". Music can help to quickly get into the state of "flow".
 
+Updated on `June 6, 2022`.
+
 ## Long mixes with no words (that work for me)
 
 1. [1h17m Sergey Sapunov RTS.FM Moscow x Dich Bar 07.07.2016 on youtube](https://www.youtube.com/watch?v=NWjQg0zDZes)
@@ -20,7 +22,7 @@ When working from home it can be hard to get into the right "flow". Music can he
 14. [1h12m Lola Palmer - Live DJ Set for Clubbing TV [FULL MIX] on youtube](https://www.youtube.com/watch?v=_A6Hfkp7x1s)
 15. [1h11m Lola Palmer RTSfm KievStudio 08.04.2011. on youtube](https://www.youtube.com/watch?v=6SuZfeYaixg)
 16. [1h36m Lola Palmer @ River Port [Live Stream] 30.08.2017 on youtube](https://www.youtube.com/watch?v=x_acySWrisI)
-17. [LIVE Spinnin' | 24/7 Live Radio | Deep House, Chill House | Dance Music to relax/study to on youtube](https://www.youtube.com/watch?v=N65Jb683pXQ)
+17. [LIVE Spinnin' 24/7 Live Radio Deep House, Chill House Dance Music to relax/study to on youtube](https://www.youtube.com/watch?v=N65Jb683pXQ)
 18. [3h35m Andrey Pushkarev - 8 hours live stream (part2) @ WHO I AM Gallery, Moscow 30-05-2020](https://www.youtube.com/watch?v=ce3Ps7YHg8U)
 19. [2h59m Pushkarev - Dub @ Kitchen 20.09.06 on youtube](https://www.youtube.com/watch?v=slIGXB9CAIQ)
 20. [1h59m yoyaku instore session : Andrey Pushkarev on youtube](https://www.youtube.com/watch?v=-8H0Jc1GfKE)
@@ -36,7 +38,7 @@ When working from home it can be hard to get into the right "flow". Music can he
 30. [54m BERG AUDIO PODCAST 01 : ANDREY PUSHKAREV [100% unreleased Berg Audio music] on youtube](https://www.youtube.com/watch?v=-tRPNVhca00)
 31. [1h35m Andrey Pushkarev - Techno Gipsy Podcast 017 on youtube](https://www.youtube.com/watch?v=N2MNSsfRarI)
 32. [2h53m --- ANDREY PUSHKAREV --- recorded live at Kaknastornet, Stockholm --- May 6th 2011 --- FULL SET --- on youtube](https://www.youtube.com/watch?v=Mvl9IOz3pWI)
-33. [5m53m Andrey Pushkarev b2b Roger Gerressen | all night long @ The Tribe, Nijmegen on youtube](https://www.youtube.com/watch?v=BtC0HJFRf8g)
+33. [5m53m Andrey Pushkarev b2b Roger Gerressen - all night long @ The Tribe, Nijmegen on youtube](https://www.youtube.com/watch?v=BtC0HJFRf8g)
 34. [1h4m Drift Podcast 043 - Andrey Pushkarev on youtube](https://www.youtube.com/watch?v=zgYn7CiRH1Y)
 35. [1h17m ANDREY PUSHKAREV in The Lab LA on youtube](https://www.youtube.com/watch?v=IiyFnA8gmBk)
 36. [59m Andrey Pushkarev - Deep Thinking Podcast 008 on youtube](https://www.youtube.com/watch?v=yjQv8GIZ1to)
